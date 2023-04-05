@@ -4,6 +4,5 @@ def sayHello():
 def sayGoodbye():
   print("Goodbye Ja")
   
-
 sayHello()
 sayGoodbye()
